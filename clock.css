@@ -1,0 +1,33 @@
+body{
+
+    font-family: Arial;
+    background-color:#111111;
+    color:white;
+    text-align:center;
+
+}
+h1{
+    margin-top: 50px;
+    color:skyblue;
+}
+.clock{background-color :#222222;
+    width:350px;
+    margin:50px;
+    padding :30px;
+    border-radius :15px;
+}
+#time{
+    font-size :45px;
+    color:lightgreen;
+}
+#date {
+    font-size:20px;
+    color:white;
+}
+button{
+    padding:12px;
+    background-color:skyblue;
+    border:none;
+    border-radius:5px;
+    cursor: pointer;
+}
