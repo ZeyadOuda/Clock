@@ -35,4 +35,4 @@ function changeColor() {
 }
 
 updateClock();
-setInterval(updateClock, 100);
+setInterval(updateClock, 100); 
