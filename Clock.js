@@ -1,4 +1,3 @@
-
 function updateClock() {
 
     let now = new Date();
@@ -36,5 +35,4 @@ function changeColor() {
 }
 
 updateClock();
-
 setInterval(updateClock, 100);
